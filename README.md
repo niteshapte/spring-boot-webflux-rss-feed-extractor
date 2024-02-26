@@ -3,7 +3,7 @@ Extract news from RSS Feeds
 
 Tested with 1500+ news feed URLs and it took around 4 mins 30 secs.
 
-To adjust the buffer size and delay elements according to your needs in a reactive programming scenario, you can modify the `buffer` and `delayElements` operators as follows:
+To adjust the buffer size and delay elements according to your needs, you can modify the `buffer` and `delayElements` operators as follows:
 
 ```java
 public void extractData() {
